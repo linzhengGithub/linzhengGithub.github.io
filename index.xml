@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LinZhengの博客</title>
+    <link>linzhenggithub.github.io/</link>
+    <description>Recent content on LinZhengの博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <lastBuildDate>Fri, 22 May 2020 13:34:22 +0800</lastBuildDate>
+    
+	<atom:link href="linzhenggithub.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>我的博客</title>
+      <link>linzhenggithub.github.io/posts/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Fri, 22 May 2020 13:34:22 +0800</pubDate>
+      
+      <guid>linzhenggithub.github.io/posts/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
